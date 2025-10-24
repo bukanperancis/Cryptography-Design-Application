@@ -1,5 +1,7 @@
 import string
 
+# we need to do stg for the assignment. i asssume some codes on encryption and decryption!
+
 # Create encryption and decryption mappings
 def create_mappings(substitution_alphabet):
     alphabet = string.ascii_uppercase
